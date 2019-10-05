@@ -1,2 +1,3 @@
-### my CV.
-![CV](./CV/index.html)
+### my resume
+
+简历 [CV](/CV/index.html)
